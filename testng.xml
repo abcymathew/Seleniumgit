@@ -8,13 +8,13 @@
 		 <classes> 
 			  <class name="tests.SimpleFormTest"/> 
 			  <class name="tests.RadioButtonTest"/> 
-			   <class name="tests.FormSubmitTest"/> 
-			    <class name="tests.ErrorFormSubmitTest"/> 
-			     <class name="tests.AjaxTest"/> 
-			      <class name="tests.JIQueryTest"/> 
-			       <class name="tests.WindowShiftTest"/> 
-			       <class name="tests.JavaPromptTest"/> 
-			       <class name="tests.Tabletesthashmap"/> 
-			   </classes> 
-		   </test>
-		    </suite>
+			  <class name="tests.FormSubmitTest"/> 
+			  <class name="tests.ErrorFormSubmitTest"/> 
+			  <class name="tests.AjaxTest"/> 
+			  <class name="tests.JIQueryTest"/> 
+			  <class name="tests.WindowShiftTest"/> 
+			  <class name="tests.JavaPromptTest"/> 
+			  <class name="tests.Tabletesthashmap"/> 
+		</classes> 
+	</test>
+</suite>

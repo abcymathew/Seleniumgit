@@ -37,7 +37,6 @@ public class WindowShift {
 	 }
 	
 	 public void closebuttonclick() {
-		 
 		 wait=new WaitUtil(driver);
 		 wait.waitForElementToBeVisible(driver,By.xpath("//div[@aria-label='Close' and @role='button']"));
 		 wait.waitForElementToBeVisible(driver, closebutton);

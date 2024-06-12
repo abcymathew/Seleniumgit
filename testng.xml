@@ -6,6 +6,7 @@
 	  <parameter name="browser" value="Firefox"/>
 	  <test name="finalproject1">
 		 <classes> 
+			  <class name="tests.NormalSuccessText"/> 
 			  <class name="tests.SimpleFormTest"/> 
 			  <class name="tests.RadioButtonTest"/> 
 			  <class name="tests.FormSubmitTest"/> 

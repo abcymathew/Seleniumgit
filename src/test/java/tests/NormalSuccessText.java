@@ -37,9 +37,7 @@ public class NormalSuccessText  extends DriverIntializer {
 		    normal=new NormalAlert(driver);
 		    normal.normalbuttonclick();
 		    String text=normal.getnormaltext();
-		    String expectedtext="\r\n"
-		    		+ "              I'm a normal success message. To close use  the appropriate button.\r\n"
-		    		+ "            ";
+		    String expectedtext= "I'm a normal success message. To close use  the appropriate button.";
 		    Assert.assertEquals(text,expectedtext);
 		}
 	
